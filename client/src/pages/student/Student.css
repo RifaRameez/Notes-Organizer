@@ -1,0 +1,44 @@
+.noteList {
+    flex: 6;
+    padding: 40px;
+    padding-bottom: 20px;
+    background-color: white;
+}
+
+.titleContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pageHeading {
+    font-size: 30px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.noteAddButton {
+    width: 80px;
+    border: none;
+    padding: 5px;
+    background-color: #00d0f1;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.noteTable {
+    margin-top: 20px;
+}
+
+.noteListDelete {
+    color: red;
+    cursor: pointer;
+}
+
+.noteListEdit {
+    color: green;
+    cursor: pointer;
+    margin-right: 20px;
+}

@@ -1,0 +1,55 @@
+.userList {
+    flex: 6;
+    padding: 40px;
+    padding-bottom: 20px;
+    background-color: white;
+}
+
+.titleContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pageHeading {
+    font-size: 30px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.userAddButton {
+    width: 80px;
+    border: none;
+    padding: 5px;
+    background-color: #00d0f1;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.userTable {
+    margin-top: 20px;
+}
+
+.userListView {
+    color: green;
+    cursor: pointer;
+}
+
+.searchTab {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.searchButton {
+    width: 80px;
+    border: none;
+    padding: 5px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}

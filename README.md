@@ -12,7 +12,7 @@ First, admin will create the account for user and user will get an email with th
 
 1. Clone the repository
 ```
-git clone https://github.com/rifa9/Notes-Organizer.git
+git clone https://github.com/RifaRameez/Notes-Organizer.git
 ```
 2. Install NPM packages
 ```
